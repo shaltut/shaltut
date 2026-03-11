@@ -72,13 +72,6 @@ Technology Director at [TachyHealth](https://tachyhealth.com) with 8+ years of e
 | 2019–2020 | Full Stack .NET Developer | United Integrated Solution |
 | 2017–Present | Freelance Engineer | Upwork (30+ projects) |
 
-## Certifications
-
-- 🎖️ Red Hat Certified System Administrator
-- ☁️ AWS Certified Solutions Architect – Associate
-- ☁️ AWS Certified Cloud Practitioner
-- ⎈ Kubernetes Administrator
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
