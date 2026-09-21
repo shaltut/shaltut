@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Shaltoot 👋
 
-**Technology Director & .NET Cloud Architect** specializing in healthcare technology, AI-powered systems, and cloud-native architecture.
+**Engineering Manager & .NET Cloud Architect** specializing in healthcare technology, AI-powered systems, and cloud-native architecture.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shaltoot.cloud-16f2b3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shaltoot.cloud)
 [![Blog](https://img.shields.io/badge/Blog-Technical%20Articles-ec4899?style=for-the-badge&logo=hashnode&logoColor=white)](https://shaltoot.cloud/blog)
@@ -11,7 +11,7 @@
 
 ## About Me
 
-Technology Director at [TachyHealth](https://tachyhealth.com) with 8+ years of experience building intelligent healthcare solutions. Based in Riyadh, Saudi Arabia. I combine hands-on development with architectural strategy to deliver scalable, cloud-native platforms.
+Engineering Manager at [TachyHealth](https://tachyhealth.com) with 8+ years of experience building intelligent healthcare solutions. Based in Riyadh, Saudi Arabia. I combine hands-on development with architectural strategy to deliver scalable, cloud-native platforms.
 
 🌐 **Website:** [shaltoot.cloud](https://shaltoot.cloud) — Portfolio, blog, and projects
 
